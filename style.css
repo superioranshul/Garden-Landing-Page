@@ -247,16 +247,19 @@ h1{
     padding-top: 95px;
 }
 .design{
-    width:200px;
+    width: 200px;
     height: 70px;
     position: absolute;
     bottom: 0%;
-    left: 84%;
+    left: 84.3%;
     text-align: end;
 }
 #back{
+    position: absolute;
     width: 190px;
     height: 66px;
+    right: 0px;
+    bottom: 0%;
     z-index: -1;
 }
 #leaf{
